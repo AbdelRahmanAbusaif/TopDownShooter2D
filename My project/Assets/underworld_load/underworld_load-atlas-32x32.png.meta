@@ -1,0 +1,3044 @@
+fileFormatVersion: 2
+guid: b99be723de39b4c4e9d2c35d6e9f93e2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 481
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baef04c3eaebebf4fb771f2c7d7c3f12
+      internalID: -455067171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 481
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726d5f943c9358d47b4e520c3e8ec26d
+      internalID: -834332096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 481
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbdbf7e87df4c6449cd7f92b71420ce
+      internalID: 1032098405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 481
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3415ec078ca2847add16add667937e
+      internalID: 1914582006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 480
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3758f626cf27264ab7464af155c55b5
+      internalID: 652571138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 480
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f650a4c98896e974ebf5db35162abd89
+      internalID: 449673404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 481
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486592497ec428642a963e28343588a2
+      internalID: -390272814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_7
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 481
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdaa7895b0e6c1548aee5629398bf0d0
+      internalID: -354299228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_8
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 481
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7758b0b6643dc4dbea2f126a8c9e0d
+      internalID: 536253681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_9
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 449
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2805e2a2ecb33674f9a3ca1386b22fc0
+      internalID: 1028475639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_10
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 449
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680f1de315b59164a8f8690268455b09
+      internalID: -1394871485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_11
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 495
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93330f074c939744986f0549d67935f6
+      internalID: -906071111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_12
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 489
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c288e4dda4aed93439aa1d6d230a8170
+      internalID: 654417723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_13
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd995874ae63ecd419299626d84e81d7
+      internalID: -1366873314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_14
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 481
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c9d6b6ebbcfad4ca877ee85ff31409
+      internalID: -432430726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_15
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 481
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49753dca35e33241bce32ab063590bd
+      internalID: 1053385120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 449
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f6dfd9771c79847803d9a4a6b80c5a
+      internalID: -1704821909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_17
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 449
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344569b531ebf4344bbded0ceb698d5c
+      internalID: -1250278354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_18
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 449
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3608d06e33b3d418504319dbada5eb
+      internalID: 1062481032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_19
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 447
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1a06b13a8236747af3ee84f3a5e8dd
+      internalID: 1850551585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_20
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 447
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a344f25da622f498a836bf3fb4d56f
+      internalID: -2107226181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_21
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 449
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19283351157b204f8a2876ee2cc92fb
+      internalID: 635974000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 449
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eddc802a97658324ab7ab34e7893dd38
+      internalID: 318244210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_23
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 449
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a8951a81b31144d8b03e5977540d7f
+      internalID: 419273505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_24
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 449
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c5fd79d7a053d4ebf9070f5c3b0fb5
+      internalID: 2000243103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_25
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 449
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf6815f2e74cf0448e3c55d7f143817
+      internalID: -1098935619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_26
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 449
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b899656591d17b046828c1fd34e4efef
+      internalID: 558268027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_27
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 449
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2799997619964844597ab02fa3c099e6
+      internalID: -733933512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_28
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 455
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d94b6bbd48c4c49a45916d5f3f072f
+      internalID: -2070741596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_29
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 455
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a2ab29469fce448b0ddebaf00fe168
+      internalID: 750151850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 417
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbde7ca7cf4286f48bec118be84b7fd0
+      internalID: 11450737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_31
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 417
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3b47a584a11384398964f175cc1e24
+      internalID: 1647471127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_32
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 417
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2adc1aea8e012e48aa2cdec64824736
+      internalID: 749365464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_33
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 417
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfc09741380b6848b155bbd6aa94800
+      internalID: 744929475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_34
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 417
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e0dff34a319d54faa8ffa7493c0794
+      internalID: -108343849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_35
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 417
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d796f6c48455e7b43a4b94126136f81e
+      internalID: 1969289584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_36
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 417
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad000e782f10f7c4799ec6bba2e5eb70
+      internalID: 690282529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_37
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 385
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8618a0c98038a3e479844fbae3eed6ee
+      internalID: -2116317355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_38
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 385
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd982660a53e5c048930e75b725e4f78
+      internalID: -684916556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_39
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 417
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9591ade3fb68ae49a4554218f445f70
+      internalID: -1620532787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_40
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 417
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39cd346fc65abd74fbb8acd0ad9b9f99
+      internalID: 831363514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_41
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 421
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd3ac90f9ef6a9458b8a6e9f92d464f
+      internalID: -287321671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_42
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 423
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d31d370187262c44a81b15e09f6fc9b
+      internalID: -1463217807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_43
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 384
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38306f34909d1f94b880ce83f9ae3bcf
+      internalID: 1086608934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_44
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 384
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f1156e2012b2a4f98e19e6618c6d03
+      internalID: -367396580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_45
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 384
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6e5a39a6935d348b32db32aed6f931
+      internalID: 339585359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_46
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 385
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae2a32f873ca2f4dbc3fb5f685932e9
+      internalID: 2101927454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_47
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 385
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7532b30af7e53ea4bacb5fd176bd9d8d
+      internalID: -88476796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_48
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 391
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a93bfc71b19254ca063a8134d401ac
+      internalID: -1184020916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_49
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 406
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52009b7465d9294419294f6d05f9dbcb
+      internalID: -1970778558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_50
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 385
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c4ad19e0e9ba141b6e8ffd2015101c
+      internalID: 1316695249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_51
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 385
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb80f07903344d845b4bc5ee20ad7714
+      internalID: -240188184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_52
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 385
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b904723e710abc43b33d299e6ca91ce
+      internalID: 90781369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_53
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 385
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900a1f5ec05095f4d89ac121a2e3fa57
+      internalID: 1427994018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_54
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 385
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2527e0a394b45fd4da87a97cc62662ab
+      internalID: -295669170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_55
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 385
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9e22a87d49cfe48a5c5885b64740db
+      internalID: -1015446624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_56
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 385
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35968821884b6a4d994ede9c28568c2
+      internalID: 1033022466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_57
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 355
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d983e8a7e82bc488ea298be98d61ad
+      internalID: -115721263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_58
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 355
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6e550279d5b3348a6edc4d7430597b
+      internalID: 1266489186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_59
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 355
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ed804e82a50004b82a176ed712bc26
+      internalID: 81548256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_60
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 353
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348ad6e5878e6e44ba038f64ff9a1381
+      internalID: 818342439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_61
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 352
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0059861c86d0e59449d220ad0c4a9f1c
+      internalID: -2133306900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_62
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 352
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd0b3c1bc4b0ec45804d34bb1d3730f
+      internalID: -1681337357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 321
+        width: 209
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0075ff66dd3404c96a847465b29ed5
+      internalID: 1219655830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_64
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 359
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0145c6848c96cf4badd341975eab844
+      internalID: -416970457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_65
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 353
+        width: 46
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b6601b5fb2c2748be8b95ce6247345
+      internalID: 348035336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 321
+        width: 63
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a897286ce79112941825691969bac197
+      internalID: -1945719169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_67
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 321
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3bbadb70ec44db40898e6831f9c47fd
+      internalID: 1860194234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_68
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 321
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9005028dd0a9c48bfa782604fbe4b1
+      internalID: -266161544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_69
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 321
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e965c0d66caba6542b6b15f66ebba262
+      internalID: 137847596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_70
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 321
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae3a72b344257840b794b54243dd5d6
+      internalID: -684781934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_71
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 333
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a8c26ea9de0474b8da63473cb400f8
+      internalID: -103006217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_72
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 333
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837bedb4bd5261e488556ad18607014e
+      internalID: 647307659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_73
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 334
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aef49e0949877341b279e179d6ad47b
+      internalID: 323280917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_74
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 334
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e38f742f5e953c419975a19fdb287a8
+      internalID: -2036361570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_75
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 288
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee26c4a6f2131b468196a12d663e438
+      internalID: -634707167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_76
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 288
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16677601ace5e3842b700eb4ffcc657a
+      internalID: 380671178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_77
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 288
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327943ab1087f90428ace2245e9d019b
+      internalID: 154634361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_78
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 289
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2491fa8327e68948b25e47f6e064799
+      internalID: -563797326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_79
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 288
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e63e74673ef684fa6dc95d503477a3
+      internalID: -1160331168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_80
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 288
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f672beaed5979f4694256b41be97d82
+      internalID: 753377935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 257
+        width: 192
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df7a2cd04ed93446ad85d1d90270bf3
+      internalID: 616268329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_82
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 298
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac6fcd25b74c0b468a129c2a7b1bbeb
+      internalID: -1006422210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_83
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e502bce477fd988478b46bd23ab95c5a
+      internalID: 391287057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_84
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 265
+        width: 7
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1475db94a3f944aab34485f164e2e3
+      internalID: -1224392789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 64
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c6ad09572a0354aae4dbecc250e712
+      internalID: 876327381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_86
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 257
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7a157433a3e844c9339e080db672c1
+      internalID: 640490807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_87
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 257
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d4f11840e90fe42b236bfd2e3abd2f
+      internalID: -516161861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_88
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 257
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bf837cdc6a2694d81d4186ca88901c
+      internalID: -2052017743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_89
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 257
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffaf3396df016443a9393bcf00ff278
+      internalID: -849032820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_90
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 268
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fedaad13f98694981280bd9a80e53a
+      internalID: 432922364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_91
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 268
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9dacccbf8f321e43aa0cf67a8a3e62b
+      internalID: -877854120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_92
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 264
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c48571633176c647b58da997af9796c
+      internalID: -693358662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_93
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 228
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fa11e839138a748a68b6edf3e99350
+      internalID: -1611070911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_94
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 228
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de0147e20b818649a8092a757373477
+      internalID: -569127538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_95
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 228
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf3f44a9ea136f4b91d059816f35f16
+      internalID: 1886764479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_96
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 248
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b1ee0dba26f274aa5896aa94724ee9
+      internalID: 2088528539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_97
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 248
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb1134fd87ba0c4699e1dede52f9a8e
+      internalID: -1277612306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_98
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 248
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c170e010f8d318f419d26f594448117d
+      internalID: -1647593766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_99
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 243
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3d020754958a2449e14c6310ca791e
+      internalID: -233628555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_100
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 231
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16fcb84e914ec64086909b42267f208
+      internalID: -1403135817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_101
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 231
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8bdd2ad8e82a44f840224606076744
+      internalID: -1253234602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_102
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d049163b0f123d4eb8ec79af88cfb64
+      internalID: -1241535240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_103
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec515fb6c31bc644958049e6e2d7564
+      internalID: 167276385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_104
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 193
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6255cce29aa5d1340bf508104e6192e7
+      internalID: -1522050101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_105
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 193
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28d8f07fdbf28c4abf3403418361495
+      internalID: 823718659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_106
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 193
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0665458174e299346a3f18ac7c3ab83c
+      internalID: 1813637886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_107
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab89f7e1d3954df4e9e430f795face34
+      internalID: 2014793376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_108
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 0
+        width: 265
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e5b852353e416499777d0c30d2a519
+      internalID: 655203424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_109
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 165
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc23594d07b323446bc38c7c6c97588a
+      internalID: -1265640661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_110
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 166
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2506adc8ebb86c49a12f67f52c938b5
+      internalID: -920761967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_111
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 164
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcbcf70bb2f08a49a3f81844fcd6ab9
+      internalID: 1433673372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_112
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 129
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47c27b21873b9f4dbe87a75cb56fa1f
+      internalID: -253949950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_113
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 129
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df38c77d4a42ced4aa31643d00c6726c
+      internalID: -69091113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_114
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 129
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bacddb377e6ecd418f96954daa5ba2e
+      internalID: -683847670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_115
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 42
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d7cce87e3b5b1448daf44eb24154f9
+      internalID: 2039869911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_116
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 24
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758f57c086096944aaeabdffa57a95d3
+      internalID: -311715085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_117
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 110
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e2460e2cf83cd44a2010373c3d2836
+      internalID: 496728322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_118
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 108
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022ded8f952be9445baa0edfd66f61fe
+      internalID: -1043542467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_119
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 85
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e921085745fc541993a22d535245c3
+      internalID: -1222419324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_120
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 85
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57dea2941070bc54caafda2f54bc1b7f
+      internalID: -544262103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_121
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 69
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5a739f2a64ff240ae255f0d87adff1
+      internalID: -1365430399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_122
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 69
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e74fe33118b6247ac1667d9a1ba32b
+      internalID: 747777354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_123
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 37
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59023bc0a02b59046a51362576ef48f4
+      internalID: -143605566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_124
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880a4239380c81b44a166b4802660086
+      internalID: -338883473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_125
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 37
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054c375925fd9ae4eb5e14669a090135
+      internalID: 654904637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_126
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2e497178bc81e43baf7f133cd6231b
+      internalID: -1465681392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_127
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 4
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac37f5cccb3e8224bae80be283201986
+      internalID: 50401105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_128
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 4
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e893413d4fd4d241809138563d97549
+      internalID: -1755699208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_129
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 416
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4589656845163046993090f082e73ed
+      internalID: -754451067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_130
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 416
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3729cbaf426dceb40a388605f8961d9c
+      internalID: 1475568516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underworld_load-atlas-32x32_131
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 415
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8570b665faf6bef4b844b54adfa3ae0c
+      internalID: -1386832227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      underworld_load-atlas-32x32_0: -455067171
+      underworld_load-atlas-32x32_1: -834332096
+      underworld_load-atlas-32x32_10: -1394871485
+      underworld_load-atlas-32x32_100: -1403135817
+      underworld_load-atlas-32x32_101: -1253234602
+      underworld_load-atlas-32x32_102: -1241535240
+      underworld_load-atlas-32x32_103: 167276385
+      underworld_load-atlas-32x32_104: -1522050101
+      underworld_load-atlas-32x32_105: 823718659
+      underworld_load-atlas-32x32_106: 1813637886
+      underworld_load-atlas-32x32_107: 2014793376
+      underworld_load-atlas-32x32_108: 655203424
+      underworld_load-atlas-32x32_109: -1265640661
+      underworld_load-atlas-32x32_11: -906071111
+      underworld_load-atlas-32x32_110: -920761967
+      underworld_load-atlas-32x32_111: 1433673372
+      underworld_load-atlas-32x32_112: -253949950
+      underworld_load-atlas-32x32_113: -69091113
+      underworld_load-atlas-32x32_114: -683847670
+      underworld_load-atlas-32x32_115: 2039869911
+      underworld_load-atlas-32x32_116: -311715085
+      underworld_load-atlas-32x32_117: 496728322
+      underworld_load-atlas-32x32_118: -1043542467
+      underworld_load-atlas-32x32_119: -1222419324
+      underworld_load-atlas-32x32_12: 654417723
+      underworld_load-atlas-32x32_120: -544262103
+      underworld_load-atlas-32x32_121: -1365430399
+      underworld_load-atlas-32x32_122: 747777354
+      underworld_load-atlas-32x32_123: -143605566
+      underworld_load-atlas-32x32_124: -338883473
+      underworld_load-atlas-32x32_125: 654904637
+      underworld_load-atlas-32x32_126: -1465681392
+      underworld_load-atlas-32x32_127: 50401105
+      underworld_load-atlas-32x32_128: -1755699208
+      underworld_load-atlas-32x32_129: -754451067
+      underworld_load-atlas-32x32_13: -1366873314
+      underworld_load-atlas-32x32_130: 1475568516
+      underworld_load-atlas-32x32_131: -1386832227
+      underworld_load-atlas-32x32_14: -432430726
+      underworld_load-atlas-32x32_15: 1053385120
+      underworld_load-atlas-32x32_16: -1704821909
+      underworld_load-atlas-32x32_17: -1250278354
+      underworld_load-atlas-32x32_18: 1062481032
+      underworld_load-atlas-32x32_19: 1850551585
+      underworld_load-atlas-32x32_2: 1032098405
+      underworld_load-atlas-32x32_20: -2107226181
+      underworld_load-atlas-32x32_21: 635974000
+      underworld_load-atlas-32x32_22: 318244210
+      underworld_load-atlas-32x32_23: 419273505
+      underworld_load-atlas-32x32_24: 2000243103
+      underworld_load-atlas-32x32_25: -1098935619
+      underworld_load-atlas-32x32_26: 558268027
+      underworld_load-atlas-32x32_27: -733933512
+      underworld_load-atlas-32x32_28: -2070741596
+      underworld_load-atlas-32x32_29: 750151850
+      underworld_load-atlas-32x32_3: 1914582006
+      underworld_load-atlas-32x32_30: 11450737
+      underworld_load-atlas-32x32_31: 1647471127
+      underworld_load-atlas-32x32_32: 749365464
+      underworld_load-atlas-32x32_33: 744929475
+      underworld_load-atlas-32x32_34: -108343849
+      underworld_load-atlas-32x32_35: 1969289584
+      underworld_load-atlas-32x32_36: 690282529
+      underworld_load-atlas-32x32_37: -2116317355
+      underworld_load-atlas-32x32_38: -684916556
+      underworld_load-atlas-32x32_39: -1620532787
+      underworld_load-atlas-32x32_4: 652571138
+      underworld_load-atlas-32x32_40: 831363514
+      underworld_load-atlas-32x32_41: -287321671
+      underworld_load-atlas-32x32_42: -1463217807
+      underworld_load-atlas-32x32_43: 1086608934
+      underworld_load-atlas-32x32_44: -367396580
+      underworld_load-atlas-32x32_45: 339585359
+      underworld_load-atlas-32x32_46: 2101927454
+      underworld_load-atlas-32x32_47: -88476796
+      underworld_load-atlas-32x32_48: -1184020916
+      underworld_load-atlas-32x32_49: -1970778558
+      underworld_load-atlas-32x32_5: 449673404
+      underworld_load-atlas-32x32_50: 1316695249
+      underworld_load-atlas-32x32_51: -240188184
+      underworld_load-atlas-32x32_52: 90781369
+      underworld_load-atlas-32x32_53: 1427994018
+      underworld_load-atlas-32x32_54: -295669170
+      underworld_load-atlas-32x32_55: -1015446624
+      underworld_load-atlas-32x32_56: 1033022466
+      underworld_load-atlas-32x32_57: -115721263
+      underworld_load-atlas-32x32_58: 1266489186
+      underworld_load-atlas-32x32_59: 81548256
+      underworld_load-atlas-32x32_6: -390272814
+      underworld_load-atlas-32x32_60: 818342439
+      underworld_load-atlas-32x32_61: -2133306900
+      underworld_load-atlas-32x32_62: -1681337357
+      underworld_load-atlas-32x32_63: 1219655830
+      underworld_load-atlas-32x32_64: -416970457
+      underworld_load-atlas-32x32_65: 348035336
+      underworld_load-atlas-32x32_66: -1945719169
+      underworld_load-atlas-32x32_67: 1860194234
+      underworld_load-atlas-32x32_68: -266161544
+      underworld_load-atlas-32x32_69: 137847596
+      underworld_load-atlas-32x32_7: -354299228
+      underworld_load-atlas-32x32_70: -684781934
+      underworld_load-atlas-32x32_71: -103006217
+      underworld_load-atlas-32x32_72: 647307659
+      underworld_load-atlas-32x32_73: 323280917
+      underworld_load-atlas-32x32_74: -2036361570
+      underworld_load-atlas-32x32_75: -634707167
+      underworld_load-atlas-32x32_76: 380671178
+      underworld_load-atlas-32x32_77: 154634361
+      underworld_load-atlas-32x32_78: -563797326
+      underworld_load-atlas-32x32_79: -1160331168
+      underworld_load-atlas-32x32_8: 536253681
+      underworld_load-atlas-32x32_80: 753377935
+      underworld_load-atlas-32x32_81: 616268329
+      underworld_load-atlas-32x32_82: -1006422210
+      underworld_load-atlas-32x32_83: 391287057
+      underworld_load-atlas-32x32_84: -1224392789
+      underworld_load-atlas-32x32_85: 876327381
+      underworld_load-atlas-32x32_86: 640490807
+      underworld_load-atlas-32x32_87: -516161861
+      underworld_load-atlas-32x32_88: -2052017743
+      underworld_load-atlas-32x32_89: -849032820
+      underworld_load-atlas-32x32_9: 1028475639
+      underworld_load-atlas-32x32_90: 432922364
+      underworld_load-atlas-32x32_91: -877854120
+      underworld_load-atlas-32x32_92: -693358662
+      underworld_load-atlas-32x32_93: -1611070911
+      underworld_load-atlas-32x32_94: -569127538
+      underworld_load-atlas-32x32_95: 1886764479
+      underworld_load-atlas-32x32_96: 2088528539
+      underworld_load-atlas-32x32_97: -1277612306
+      underworld_load-atlas-32x32_98: -1647593766
+      underworld_load-atlas-32x32_99: -233628555
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
